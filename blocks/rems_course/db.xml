@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btREMSCourse">
+        <field name="bID" type="I">
+            <key />
+            <unsigned />
+        </field>
+        <field name="CourseCode" type="C" size="20">
+        </field>
+        <field name="CourseTemplate" type="C" size="20">
+        </field>
+    </table>
+</schema>

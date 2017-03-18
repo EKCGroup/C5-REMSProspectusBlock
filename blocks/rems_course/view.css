@@ -1,0 +1,43 @@
+/* REMS Course Information Block */
+
+/* Core Block */
+.REMS-Course-Block {}
+.REMS-Course-Block .Course-FE {}
+.REMS-Course-Block .Course-HE {}
+.REMS-Course-Block .Course-Apprenticeship {}
+
+/* Text */
+.REMS-Course-Block h1 {
+    color: #00a5ff !important;
+}
+.REMS-Course-Block h2 {
+    color: #00a5ff !important;
+}
+.REMS-Course-Block h3 {
+    color: #00a5ff !important;
+}
+.REMS-Course-Block p {
+    color: #000 !important;
+}
+
+/* Links */
+.REMS-Course-Block a {
+    color: #00a5ff !important;
+}
+.REMS-Course-Block a:hover {
+    color: #366495 !important;
+}
+
+/* Layout */
+.REMS-Course-Block .apply-buttons input[type="button"] {
+    color: #FFF;
+    font-size: 1.1em;
+    background: #00a5ff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+    margin: 0 0 10px 0;
+}
+.REMS-Course-Block .apply-buttons input[type="button"]:hover {
+    color: #000 !important;
+}
